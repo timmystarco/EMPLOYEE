@@ -1,0 +1,26 @@
+C:\Users\timmy\source\repos\EMPLOYEE\obj\Debug\netcoreapp3.1\EMPLOYEE.csprojAssemblyReference.cache
+C:\Users\timmy\source\repos\EMPLOYEE\obj\Debug\netcoreapp3.1\EMPLOYEE.AssemblyInfoInputs.cache
+C:\Users\timmy\source\repos\EMPLOYEE\obj\Debug\netcoreapp3.1\EMPLOYEE.AssemblyInfo.cs
+C:\Users\timmy\source\repos\EMPLOYEE\obj\Debug\netcoreapp3.1\EMPLOYEE.csproj.CoreCompileInputs.cache
+C:\Users\timmy\source\repos\EMPLOYEE\bin\Debug\netcoreapp3.1\EMPLOYEE.exe
+C:\Users\timmy\source\repos\EMPLOYEE\bin\Debug\netcoreapp3.1\EMPLOYEE.deps.json
+C:\Users\timmy\source\repos\EMPLOYEE\bin\Debug\netcoreapp3.1\EMPLOYEE.runtimeconfig.json
+C:\Users\timmy\source\repos\EMPLOYEE\bin\Debug\netcoreapp3.1\EMPLOYEE.runtimeconfig.dev.json
+C:\Users\timmy\source\repos\EMPLOYEE\bin\Debug\netcoreapp3.1\EMPLOYEE.dll
+C:\Users\timmy\source\repos\EMPLOYEE\bin\Debug\netcoreapp3.1\EMPLOYEE.pdb
+C:\Users\timmy\source\repos\EMPLOYEE\obj\Debug\netcoreapp3.1\EMPLOYEE.dll
+C:\Users\timmy\source\repos\EMPLOYEE\obj\Debug\netcoreapp3.1\EMPLOYEE.pdb
+C:\Users\timmy\source\repos\EMPLOYEE\obj\Debug\netcoreapp3.1\EMPLOYEE.genruntimeconfig.cache
+C:\Users\timmy\Desktop\E-BOOKS\300 LEVEL RAIN SEMESTER\COURSE MATERIAL\EEG 324 - PRORAMMING LANGUAGE II\TIMMY'S PROJECT 01\EMPLOYEE\obj\Debug\netcoreapp3.1\EMPLOYEE.csprojAssemblyReference.cache
+C:\Users\timmy\Desktop\E-BOOKS\300 LEVEL RAIN SEMESTER\COURSE MATERIAL\EEG 324 - PRORAMMING LANGUAGE II\TIMMY'S PROJECT 01\EMPLOYEE\obj\Debug\netcoreapp3.1\EMPLOYEE.AssemblyInfoInputs.cache
+C:\Users\timmy\Desktop\E-BOOKS\300 LEVEL RAIN SEMESTER\COURSE MATERIAL\EEG 324 - PRORAMMING LANGUAGE II\TIMMY'S PROJECT 01\EMPLOYEE\obj\Debug\netcoreapp3.1\EMPLOYEE.AssemblyInfo.cs
+C:\Users\timmy\Desktop\E-BOOKS\300 LEVEL RAIN SEMESTER\COURSE MATERIAL\EEG 324 - PRORAMMING LANGUAGE II\TIMMY'S PROJECT 01\EMPLOYEE\obj\Debug\netcoreapp3.1\EMPLOYEE.csproj.CoreCompileInputs.cache
+C:\Users\timmy\Desktop\E-BOOKS\300 LEVEL RAIN SEMESTER\COURSE MATERIAL\EEG 324 - PRORAMMING LANGUAGE II\TIMMY'S PROJECT 01\EMPLOYEE\obj\Debug\netcoreapp3.1\EMPLOYEE.dll
+C:\Users\timmy\Desktop\E-BOOKS\300 LEVEL RAIN SEMESTER\COURSE MATERIAL\EEG 324 - PRORAMMING LANGUAGE II\TIMMY'S PROJECT 01\EMPLOYEE\obj\Debug\netcoreapp3.1\EMPLOYEE.pdb
+C:\Users\timmy\Desktop\E-BOOKS\300 LEVEL RAIN SEMESTER\COURSE MATERIAL\EEG 324 - PRORAMMING LANGUAGE II\TIMMY'S PROJECT 01\EMPLOYEE\bin\Debug\netcoreapp3.1\EMPLOYEE.exe
+C:\Users\timmy\Desktop\E-BOOKS\300 LEVEL RAIN SEMESTER\COURSE MATERIAL\EEG 324 - PRORAMMING LANGUAGE II\TIMMY'S PROJECT 01\EMPLOYEE\bin\Debug\netcoreapp3.1\EMPLOYEE.deps.json
+C:\Users\timmy\Desktop\E-BOOKS\300 LEVEL RAIN SEMESTER\COURSE MATERIAL\EEG 324 - PRORAMMING LANGUAGE II\TIMMY'S PROJECT 01\EMPLOYEE\bin\Debug\netcoreapp3.1\EMPLOYEE.runtimeconfig.json
+C:\Users\timmy\Desktop\E-BOOKS\300 LEVEL RAIN SEMESTER\COURSE MATERIAL\EEG 324 - PRORAMMING LANGUAGE II\TIMMY'S PROJECT 01\EMPLOYEE\bin\Debug\netcoreapp3.1\EMPLOYEE.runtimeconfig.dev.json
+C:\Users\timmy\Desktop\E-BOOKS\300 LEVEL RAIN SEMESTER\COURSE MATERIAL\EEG 324 - PRORAMMING LANGUAGE II\TIMMY'S PROJECT 01\EMPLOYEE\bin\Debug\netcoreapp3.1\EMPLOYEE.dll
+C:\Users\timmy\Desktop\E-BOOKS\300 LEVEL RAIN SEMESTER\COURSE MATERIAL\EEG 324 - PRORAMMING LANGUAGE II\TIMMY'S PROJECT 01\EMPLOYEE\bin\Debug\netcoreapp3.1\EMPLOYEE.pdb
+C:\Users\timmy\Desktop\E-BOOKS\300 LEVEL RAIN SEMESTER\COURSE MATERIAL\EEG 324 - PRORAMMING LANGUAGE II\TIMMY'S PROJECT 01\EMPLOYEE\obj\Debug\netcoreapp3.1\EMPLOYEE.genruntimeconfig.cache
